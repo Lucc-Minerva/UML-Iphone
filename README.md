@@ -2,7 +2,7 @@
 Diagramação de Classes UML do iPhone
 
 ### Diagrama de Classes
-```
+```mermaid
 classDiagram
   class iPhone3 {
     + ReprodutorMusical()
